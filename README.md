@@ -17,8 +17,8 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  custom_lint: ^0.7.5
-  flutter_key_lints: ^0.1.0
+  custom_lint: <latest-version>
+  flutter_key_lints: <latest-version>
 ```
 
 Configure in your `analysis_options.yaml`:
